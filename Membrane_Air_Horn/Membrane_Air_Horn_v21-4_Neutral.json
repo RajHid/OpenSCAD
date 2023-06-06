@@ -1,0 +1,45 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "Neue Parameter Liste1": {
+            "DesignStatus": "printing"
+        },
+        "Neue Parameter Liste2": {
+            "DesignStatus": "sizing"
+        },
+        "Neue Parameter Liste3": {
+            "DesignStatus": "sizing"
+        },
+        "Neue Parameter Liste4": {
+            "DesignStatus": "textfitting"
+        },
+        "Neue Parameter Liste5": {
+            "DesignStatus": "printing"
+        },
+        "Neue Parameter Liste6": {
+            "DesignStatus": "Only_Text",
+            "EMBOSSDEPTH": "0.29999999999999999",
+            "Text_Ascend_Deg": "35"
+        },
+        "Neue Parameter Liste7": {
+            "BlowCanDiameter": "42",
+            "BlowCanHeight": "38",
+            "BottomHeight": "5",
+            "DesignStatus": "Only_Text",
+            "EMBOSSDEPTH": "0.29999999999999999",
+            "FONT": "Liberation Sans:style=Regular",
+            "FONTSIZE": "8",
+            "MembraneClerance": "6",
+            "MembraneCoverHeight": "14",
+            "MembraneProtektorThikness": "1.5",
+            "MembraneSpacing": "-0.32000000000000001",
+            "MembraneTubeDelta": "3",
+            "STRINGOFTEXT_BlowCan": "HHHwww.printables.com",
+            "STRINGOFTEXT_Cover": "Hello World",
+            "Text_Ascend_Deg": "35",
+            "Tube_d": "28",
+            "WallThickness": "2",
+            "WallThickness_Tube": "1.5"
+        }
+    }
+}

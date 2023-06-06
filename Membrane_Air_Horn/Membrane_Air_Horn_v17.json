@@ -1,0 +1,11 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "Neue Parameter Liste1": {
+            "DesignStatus": "printing"
+        },
+        "Neue Parameter Liste2": {
+            "DesignStatus": "sizing"
+        }
+    }
+}

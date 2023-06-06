@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "Neue Parameter Liste1": {
+            "BlowCanDiameter": "42",
+            "BlowCanHeight": "38",
+            "BottomHeight": "5",
+            "DesignStatus": "printing",
+            "EMBOSSDEPTH": "0.29999999999999999",
+            "FONT": "Liberation Sans:style=Bold",
+            "FONTSIZE": "8",
+            "MembraneClerance": "6",
+            "MembraneCoverHeight": "14",
+            "MembraneProtektorThikness": "1.5",
+            "MembraneSpacing": "-0.22",
+            "MembraneTubeDelta": "3",
+            "STRINGOFTEXT": "www.printables.com",
+            "STRINGOFTEXT2": "Hello World",
+            "Tube_d": "29",
+            "WallThickness": "2",
+            "WallThickness_Tube": "1.5"
+        }
+    }
+}

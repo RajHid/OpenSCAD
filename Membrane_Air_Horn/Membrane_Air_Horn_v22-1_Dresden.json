@@ -1,0 +1,26 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "BlowCanDiameter": "42",
+            "BlowCanHeight": "38",
+            "BottomHeight": "5",
+            "DesignStatus": "Only_Text",
+            "EMBOSSDEPTH": "0.29999999999999999",
+            "FONT": "Liberation Sans:style=Regular",
+            "FONTSIZE": "12",
+            "MembraneClerance": "6",
+            "MembraneCoverHeight": "14",
+            "MembraneProtektorThikness": "1.5",
+            "MembraneSpacing": "-0.32000000000000001",
+            "MembraneTubeDelta": "3",
+            "Offset_rot_Start": "-20",
+            "STRINGOFTEXT_BlowCan": "Riders unite, together we fight!",
+            "STRINGOFTEXT_Cover": "Dresden 25.05.2023",
+            "Text_Ascend_Deg": "8",
+            "Tube_d": "28",
+            "WallThickness": "2",
+            "WallThickness_Tube": "1.5"
+        }
+    }
+}

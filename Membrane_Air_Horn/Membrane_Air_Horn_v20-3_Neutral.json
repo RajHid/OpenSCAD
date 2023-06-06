@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "Neue Parameter Liste1": {
+            "DesignStatus": "printing"
+        },
+        "Neue Parameter Liste2": {
+            "DesignStatus": "sizing"
+        },
+        "Neue Parameter Liste3": {
+            "DesignStatus": "sizing"
+        },
+        "Neue Parameter Liste4": {
+            "DesignStatus": "textfitting"
+        },
+        "Neue Parameter Liste5": {
+            "DesignStatus": "printing"
+        },
+        "Neue Parameter Liste6": {
+            "DesignStatus": "Only_Text",
+            "EMBOSSDEPTH": "0.29999999999999999"
+        }
+    }
+}
